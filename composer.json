@@ -12,6 +12,9 @@
             "homepage": "https://seld.be"
         }
     ],
+    "replace": {
+        "monolog/monolog": "3.*"
+    },
     "require": {
         "php": ">=8.1",
         "psr/log": "^2.0 || ^3.0"
