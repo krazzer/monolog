@@ -1,3 +1,11 @@
+# PSR-1 Compatible fork
+
+This is a fork of the original Monolog library that is PSR-1 compatible. For those of you (like me :D) stuck on a
+production server that forces PSR-1.
+
+In my case, I use the phalcon framework, which requires PSR-1. The server uses Cloudlinux, that forces the enabling of
+PSR module.
+
 <p align="center"><img src="logo.jpg" alt="Monolog" width="400"></p>
 
 # Monolog - Logging for PHP [![Continuous Integration](https://github.com/Seldaek/monolog/workflows/Continuous%20Integration/badge.svg?branch=main)](https://github.com/Seldaek/monolog/actions)
